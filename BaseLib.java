@@ -28,7 +28,7 @@ import com.relevantcodes.extentreports.LogStatus;
 /**
  * @author vanshraj.singh QAS
  *         <hr>
- *         <a href='http://192.168.1.135:81'>Time Office Software</a>
+ *         <a href='http://example:81'>Time Office Software</a>
  * @since July 15, 2018
  * @version Time Office Release 9.x.1
  */
